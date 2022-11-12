@@ -35,7 +35,7 @@ assets/images/127.0.0.1-screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: You can see my solution here: https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-flexbox-EdRK5pn_3B
 - Live Site URL: https://aikaykalu17.github.io/huddle-page/
 
 ## My process
