@@ -36,7 +36,7 @@ assets/images/127.0.0.1-screenshot.png
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://aikaykalu17.github.io/huddle-page/
 
 ## My process
 
